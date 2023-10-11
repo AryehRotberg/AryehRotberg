@@ -29,3 +29,4 @@ Hi! 👋 I'm Aryeh Rotberg, a passionate and results-driven Junior Data Scientis
 I am keen to collaborate with like-minded professionals and am currently open to new opportunities in the data science field that allow for both personal and professional growth.
 
 🔗 Let's connect! I'm always interested in hearing about new projects and opportunities.
+Linkedin Page: www.linkedin.com/in/aryeh-rotberg
