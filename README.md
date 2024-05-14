@@ -6,7 +6,7 @@ I am keen to collaborate with like-minded professionals and am currently open to
 
 🔗 Let's connect! I'm always interested in hearing about new projects and opportunities.
 
-Official Website: https://aryehrotberg.github.io/Aryeh-Rotberg-Portfolio-Website/
+Official Website: https://aryehrotberg.github.io/Aryeh-Rotberg-Portfolio-Website/</br>
 Linkedin Page: www.linkedin.com/in/aryeh-rotberg
 
 aryeh.rotberg@gmail.com
