@@ -1,4 +1,4 @@
-Hi! 👋 I'm Aryeh Rotberg, a passionate and results-driven Junior Data Scientist with a knack for transforming raw data into meaningful insights. Armed with a strong foundation in machine learning algorithms, data mining techniques, and statistical analysis, I thrive on challenges that require creative problem-solving and data-driven decision-making.
+Hi! 👋 I'm Aryeh Rotberg, a passionate and results-driven aspiring data scientist and machine learning engineer with a knack for transforming raw data into meaningful insights. Armed with a strong foundation in machine learning algorithms, data mining techniques, and statistical analysis, I thrive on challenges that require creative problem-solving and data-driven decision-making.
 
 🌱 **What I'm Looking For**
 
