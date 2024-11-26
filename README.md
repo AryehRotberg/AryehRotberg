@@ -4,12 +4,12 @@ Hi! 👋 I'm Aryeh Rotberg, an aspiring data scientist and machine learning engi
 
 ### Technical Proficiencies
 
-- Programming Languages: Python, Java, SQL, R, C, C++
+- Programming Languages: Python, Java, SQL, C, C++
 - Data Analysis: Pandas, NumPy, SciPy, Data Cleaning, Statistical Analysis
 - Machine Learning: Scikit-Learn, Supervised Learning, Unsupervised Learning, Ensemble Methods, Model Evaluation
 - Deep Learning: TensorFlow, PyTorch, Keras, CNNs, RNNs & LSTMs
 - Data Visualization: NLTK, spaCy, Transformers, Named Entity Recognition, Sentiment Analysis
-- Big Data and Cloud: Apache Spark, Hadoop, AWS, Google Cloud Platform, Docker & Kubernetes
+- Big Data and Cloud: AWS and Docker
 
 ---
 
