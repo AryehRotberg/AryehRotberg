@@ -1,35 +1,15 @@
-Hi! 👋 I'm Aryeh Rotberg, an aspiring data scientist and machine learning engineer with a strong enthusiasm for leveraging data-driven insights to tackle complex problems and drive meaningful business outcomes. With a blend of technical expertise, creative problem-solving skills, and a commitment to continuous learning, I thrive in dynamic environments where innovation is paramount. Throughout my journey, I've honed my skills in predictive analytics, natural language processing, computer vision, recommendation systems, and deep learning, among other areas. I've had the privilege of working on diverse projects that span industries, from finance and healthcare to e-commerce and telecommunications. My portfolio showcases a selection of projects, highlighting my ability to translate data into actionable insights and deliver impactful solutions.
+Hi! 👋 I'm Aryeh Rotberg, a computer science student with practical experience in natural language processing (NLP), deep learning, and machine learning. Building models from the ground up, comprehending the fundamental ideas of AI, and refining algorithms for practical uses are my areas of passion.
 
----
+- Machine Learning & Deep Learning: I have experience with a variety of projects that include Siamese networks, named entity recognition (NER), text classification, sentiment analysis, and triplet loss optimization. I have used PyTorch and TensorFlow to implement deep learning architectures, frequently choosing to create models from the ground up in order to better comprehend their workings.
 
-### Technical Proficiencies
+- Natural Language Processing: I am skilled in text summarization, custom tokenization, and translation systems. I have improved model performance for long-text by fine-tuning transformers like Pegasus to handle large documents.
 
-- Programming Languages: Python, Java, SQL, C, C++
-- Data Analysis: Pandas, NumPy, SciPy, Data Cleaning, Statistical Analysis
-- Machine Learning: Scikit-Learn, Supervised Learning, Unsupervised Learning, Ensemble Methods, Model Evaluation
-- Deep Learning: TensorFlow, PyTorch, Keras, CNNs, RNNs & LSTMs
-- Data Visualization: NLTK, spaCy, Transformers, Named Entity Recognition, Sentiment Analysis
-- Big Data and Cloud: AWS and Docker
+- Data Science & Optimization: I've worked with TF-IDF, feature engineering, embedding models, and optimizing Python and Java functions for computational efficiency. For improved model evaluation, I also created unique loss functions and masked accuracy metrics.
 
----
+- Software Development & Research: I like to implement basic algorithms from scratch and recreate frameworks like PyTorch in C++, so I don't just rely on libraries. My knowledge of neural networks, computational efficiency, and AI systems design is enhanced by this practical approach.
 
-### Seeking Opportunities
+Always willing to learn new things and work with others on cutting-edge AI problems. Let's get in touch!
 
-I am currently seeking a full-time position in data science and machine learning. I'm particularly interested in roles that offer:
-
-- Hands-on work with cutting-edge machine learning technologies
-- Opportunities for continuous learning and professional growth
-- Collaboration with diverse, innovative teams
-- Challenges that push the boundaries of data science applications
-- Organizations committed to data-driven decision making
-
-I'm open to roles such as Data Scientist, Machine Learning Engineer, or similar positions where I can leverage my skills to drive impactful solutions. If you know of any opportunities that might be a good fit, I'd be grateful for your referral or introduction.
-
----
-
-### <br>Let's Connect
-
-I'm always interested in discussing new data science projects and opportunities. Feel free to reach out:
 
 Email: aryeh.rotberg@gmail.com<br>
 LinkedIn: [linkedin.com/in/aryeh-rotberg](https://www.linkedin.com/in/aryeh-rotberg)<br>
