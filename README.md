@@ -27,16 +27,16 @@ I'm a **computer science student** with practical experience in **natural langua
 </div>
 
 ### **Machine Learning & Deep Learning**
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1a76d0.gif" width="30"> I have experience with a variety of projects that include **Siamese networks**, **named entity recognition (NER)**, **text classification**, **sentiment analysis**, and **triplet loss optimization**. I have used **PyTorch** and **TensorFlow** to implement deep learning architectures, frequently choosing to create models from the ground up in order to better comprehend their workings.
+I have experience with a variety of projects that include **Siamese networks**, **named entity recognition (NER)**, **text classification**, **sentiment analysis**, and **triplet loss optimization**. I have used **PyTorch** and **TensorFlow** to implement deep learning architectures, frequently choosing to create models from the ground up in order to better comprehend their workings.
 
 ### **Natural Language Processing**
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> I am skilled in **text summarization**, **custom tokenization**, and **translation systems**. I have improved model performance for long-text by fine-tuning transformers like **Pegasus** to handle large documents.
+I am skilled in **text summarization**, **custom tokenization**, and **translation systems**. I have improved model performance for long-text by fine-tuning transformers like **Pegasus** to handle large documents.
 
 ### **Data Science & Optimization**
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30"> I've worked with **TF-IDF**, **feature engineering**, **embedding models**, and optimizing **Python** and **Java** functions for computational efficiency. For improved model evaluation, I also created unique **loss functions** and **masked accuracy metrics**.
+I've worked with **TF-IDF**, **feature engineering**, **embedding models**, and optimizing **Python** and **Java** functions for computational efficiency. For improved model evaluation, I also created unique **loss functions** and **masked accuracy metrics**.
 
 ### **Software Development & Research**
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30"> I like to implement basic algorithms from scratch and recreate frameworks like **PyTorch in C++**, so I don't just rely on libraries. My knowledge of **neural networks**, **computational efficiency**, and **AI systems design** is enhanced by this practical approach.
+I like to implement basic algorithms from scratch and recreate frameworks like **PyTorch in C++**, so I don't just rely on libraries. My knowledge of **neural networks**, **computational efficiency**, and **AI systems design** is enhanced by this practical approach.
 
 ---
 
@@ -54,7 +54,7 @@ I'm a **computer science student** with practical experience in **natural langua
 <div align="center">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Matplotlib-%23000000.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>
   <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"/>
 </div>
 
