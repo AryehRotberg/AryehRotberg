@@ -83,6 +83,7 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
   <img src="https://img.shields.io/badge/NLTK-Natural%20Language%20Toolkit-green?style=for-the-badge"/>
 </div>
 
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryehrotberg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" alt="Top Languages">
 </div>
