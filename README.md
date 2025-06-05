@@ -145,9 +145,6 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
   <a href="https://www.linkedin.com/in/aryeh-rotberg">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/aryehrotberg">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 ---
