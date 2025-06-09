@@ -114,6 +114,9 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
 ## 🌟 **Featured Projects**
 
 <div align="center">
+  <a href="https://github.com/AryehRotberg/briefcase.ai">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryehrotberg&repo=briefcase.ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
+  </a>
   <a href="https://github.com/AryehRotberg/Brain-MRI-Images-Segmentation">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aryehrotberg&repo=Brain-MRI-Images-Segmentation&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff" />
   </a>
