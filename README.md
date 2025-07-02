@@ -142,7 +142,7 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
 <div align="center">
   <p>🚀 Always willing to learn new things and work with others on cutting-edge AI problems. Let's get in touch!</p>
   
-  <a href="mailto:aryeh.rotberg@gmail.com">
+  <a href="mailto:contact.roaryeh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/aryeh-rotberg">
