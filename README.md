@@ -1,42 +1,48 @@
 # <div align="center">Hi! I'm **Aryeh Rotberg** 👋</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;NLP+%26+Deep+Learning+Enthusiast;Building+AI+from+the+Ground+Up;Always+Learning+%26+Innovating" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="500">
+  <h3>Backend Developer | B.Sc. Computer Science Student | AI/ML Focused</h3>
+  
+  <img src="https://img.shields.io/badge/Focus-Backend%20Development-blue?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Specialty-Deep%20Learning-green?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Interest-NLP-orange?style=for-the-badge&logo=spacy&logoColor=white"/>
 </div>
 
 ---
 
 ## 🎯 **About Me**
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+I'm a **computer science student** with practical experience in **natural language processing (NLP)**, **deep learning**, **machine learning**, and **full-stack development**. I'm passionate about building complete AI-powered systems from the ground up, understanding both the algorithmic foundations and the production infrastructure needed to deploy them at scale.
 
-I'm a **computer science student** with practical experience in **natural language processing (NLP)**, **deep learning**, and **machine learning**. Building models from the ground up, comprehending the fundamental ideas of AI, and refining algorithms for practical uses are my areas of passion.
-
-<br clear="right"/>
+### 🔬 **What I Do**
+- **AI/ML Development**: Build neural networks and deep learning architectures using **PyTorch** and **TensorFlow**
+- **Backend Development**: Design and deploy scalable APIs using **FastAPI**, **SQLAlchemy**, and cloud services
+- **Full-Stack AI Systems**: Create end-to-end applications with ML models, APIs, databases, and web interfaces
+- **Production Deployment**: Deploy applications using **Docker**, **Google Cloud Run**, and **Vercel**
+- **Database Architecture**: Work with **PostgreSQL**, **MongoDB**, and **ChromaDB** for different data needs
+- **Algorithm Optimization**: Implement models from scratch and optimize algorithms for computational efficiency
 
 ---
 
 ## 🛠️ **Technical Expertise**
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-</div>
-
 ### **Machine Learning & Deep Learning**
-I have experience with a variety of projects that include **Siamese networks**, **named entity recognition (NER)**, **text classification**, **sentiment analysis**, and **triplet loss optimization**. I have used **PyTorch** and **TensorFlow** to implement deep learning architectures, frequently choosing to create models from the ground up in order to better comprehend their workings.
+I have experience with projects including **Siamese networks**, **named entity recognition (NER)**, **text classification**, **sentiment analysis**, and **triplet loss optimization**. I use **PyTorch** and **TensorFlow** to implement deep learning architectures, often building models from scratch to better understand their mechanics.
+
+### **Backend Development & APIs**
+I design and build production-ready APIs using **FastAPI** with **async/await** patterns, implement **RESTful services**, and create scalable architectures. I've deployed applications on **Google Cloud Run** and **Vercel**, managing everything from **Docker containerization** to **CI/CD pipelines**.
+
+### **Database Design & Management**
+I work with multiple database technologies including **PostgreSQL** for relational data, **MongoDB** for document storage, and **ChromaDB** for vector embeddings. I design **SQLAlchemy models**, implement **database abstraction layers**, and optimize queries for performance.
 
 ### **Natural Language Processing**
-I am skilled in **text summarization**, **custom tokenization**, and **translation systems**. I have improved model performance for long-text by fine-tuning transformers like **Pegasus** to handle large documents.
+I'm skilled in **text summarization**, **custom tokenization**, **translation systems**, and **document processing**. I've fine-tuned transformers like **Pegasus** to handle large documents, integrated **Google Gemini AI** for summarization, and built **multi-language support** systems.
 
-### **Data Science & Optimization**
-I've worked with **TF-IDF**, **feature engineering**, **embedding models**, and optimizing **Python** and **Java** functions for computational efficiency. For improved model evaluation, I also created unique **loss functions** and **masked accuracy metrics**.
+### **Full-Stack Development**
+I create complete applications with **modern web interfaces**, **real-time processing**, and **responsive design**. I integrate **AI services**, manage **API configurations**, and implement **CORS policies** for secure cross-origin requests.
 
-### **Software Development & Research**
-I like to implement basic algorithms from scratch and recreate frameworks like **PyTorch in C++**, so I don't just rely on libraries. My knowledge of **neural networks**, **computational efficiency**, and **AI systems design** is enhanced by this practical approach.
+### **DevOps & Cloud Services**
+I have hands-on experience with **Docker**, **Google Cloud Platform**, **environment configuration**, and **API key management**. I've deployed scalable applications with **automatic scaling**, **load balancing**, and **global accessibility**.
 
 ---
 
@@ -66,13 +72,29 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
   <img src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-### **Tools & Technologies**
+### **Backend & API Development**
 <div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge"/>
+</div>
+
+### **Cloud & DevOps**
+<div align="center">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+### **Development Tools & APIs**
+<div align="center">
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 </div>
 
 ### **Specialized NLP & Computer Vision**
@@ -136,11 +158,7 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
 ## 🤝 **Let's Connect & Collaborate!**
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="300">
-</div>
-
-<div align="center">
-  <p>🚀 Always willing to learn new things and work with others on cutting-edge AI problems. Let's get in touch!</p>
+  <p>🚀 Always eager to learn new technologies and collaborate on cutting-edge AI projects. Let's connect!</p>
   
   <a href="mailto:contact.roaryeh@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -153,10 +171,6 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=aryehrotberg&color=00d9ff&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
@@ -164,5 +178,4 @@ I like to implement basic algorithms from scratch and recreate frameworks like *
 
 <div align="center">
   <h3>⭐ Don't forget to star repositories you find interesting! ⭐</h3>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
